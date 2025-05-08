@@ -1,7 +1,9 @@
 # SQL-SERVER-CREDIT-CARD-ANALYSIS
 
 🧾 Project Title: Credit Card Transactions Analysis using SQL Server
+
 📌 Overview:
+
 This project focuses on performing exploratory data analysis (EDA) using SQL Server on a real-world dataset of credit card transactions, sourced from Kaggle. The goal is to uncover key insights about customer behavior, card usage patterns, and spending categories from 2013 to 2015.
 
 🔍 Objective: 
