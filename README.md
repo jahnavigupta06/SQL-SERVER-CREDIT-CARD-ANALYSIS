@@ -56,6 +56,7 @@ Noted a wide geographical spread, with transactions recorded across 986 unique c
 Gender-based segmentation included male and female customers, allowing for demographic analysis.
 
 **🛠️ Tools & Technologies**
+
 SQL Server 2019
 
 SSMS (SQL Server Management Studio)
