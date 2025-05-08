@@ -1,5 +1,8 @@
 # SQL Credit Card Data Analysis
 
+![image](https://github.com/user-attachments/assets/513a8b2a-b066-4655-a16b-d57882f2dfa5)
+
+
 **🧾 Project Title: Credit Card Transactions Analysis using SQL Server**
 
 **🛠️ Tools & Technologies**
