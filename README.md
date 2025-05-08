@@ -1,4 +1,4 @@
-# SQL-SERVER-CREDIT-CARD-ANALYSIS
+# SQL Credi Card Data Analysis
 
 🧾 Project Title: Credit Card Transactions Analysis using SQL Server
 
