@@ -1,0 +1,13 @@
+**🧠 Business Questions Solved**
+
+Below are advanced SQL questions addressed using the credit card transaction dataset:
+
+1. 🔹 Top 5 cities with highest spends and their % contribution to total credit card spends
+2. 🔹 Highest spend month and amount spent for each card type
+3. 🔹 Transactions (all columns) when each card type reaches ₹1,000,000 in cumulative spend
+4. 🔹 City with lowest % spend using Gold card
+5. 🔹 For each city: most and least common expense types
+6. 🔹 % contribution of spends by females for each expense type
+7. 🔹 Card & expense type combo with highest MoM growth in Jan 2014
+8. 🔹 City with highest spend-to-transaction ratio on weekends
+9. 🔹 City that reached its 500th transaction the fastest
