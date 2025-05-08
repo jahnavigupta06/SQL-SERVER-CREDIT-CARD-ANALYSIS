@@ -16,7 +16,9 @@ Extract meaningful business insights from the dataset using advanced SQL queries
 
 📊 Dataset Summary:
 
-Source: Kaggle - Credit Card Transactions Dataset - https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
+Source: 
+
+Kaggle - Credit Card Transactions Dataset - https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 
 Time Period: 2013 to 2015
 
