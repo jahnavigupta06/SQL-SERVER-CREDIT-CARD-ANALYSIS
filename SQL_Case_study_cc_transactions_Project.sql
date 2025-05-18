@@ -45,7 +45,7 @@ from credit_card_transactions
 ) 
 
 select top 5 cte1.* , city_spend_amt* 1.0/total_amount* 100 as percent_contri
-from cte1, total_spend_amount
+from cte1 inner join total_spend_amount on 1=1           -- Join 2 tables
 order by city_spend_amt desc
 
 -- output example :-
